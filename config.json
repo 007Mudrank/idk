@@ -1,0 +1,11 @@
+{
+    "token": "DISCORD TOKEN",
+    "color": "#34a6ef",
+    "developerGuild": "GUILD ID",
+    "database": "MongoDB Url",
+    "supportServer": "DISCORD Invite Link",
+    "activityInterval": 10,
+    "activities": [
+            "/invite | dsc.gg/eve-bot",
+	    "/help | {servercount} servers"
+    ]}
